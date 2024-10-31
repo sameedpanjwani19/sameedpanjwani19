@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Abdul Sameed!
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+🌱 Eagerly growing my skills in full-stack development! Crafting code from front to back and loving every bit of the journey 🛠️. 
 <br/>
 <br/>
 
