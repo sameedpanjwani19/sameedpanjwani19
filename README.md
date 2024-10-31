@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://github.com/sameedpanjwani19/sameedpanjwani19/blob/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/sameedpanjwani19/sameedpanjwani19/blob/main/tachstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
